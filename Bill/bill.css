@@ -1,0 +1,45 @@
+.container
+{
+  max-width: 840px;
+  margin: auto;
+}
+.note p {
+    font-style: italic;
+    font-size: 14;
+    font-weight: 300;
+    margin-bottom: 5px;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+input#__BVID__12 {
+    width: 529px;
+    height: 35px;
+    border: 2px solid #acacac;
+    margin-right: 15px;
+    border-radius: unset;
+}
+button#submit {
+  height: 40px;
+  width: 264px;
+  border-color: ;
+  background: #00904a;
+  border-color: green;
+  color: white;
+  border: green;
+}
+.table {
+    width: 100%;
+    margin-bottom: 1rem;
+    color: #212529;
+    border-collapse: collapse;
+    margin-top: 10px;
+    display: none;
+}
+.table td, .table th {
+    padding: .75rem;
+    vertical-align: top;
+    border-top: 1px solid #dee2e6;
+    border: 2px solid;
+}
